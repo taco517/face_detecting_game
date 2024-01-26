@@ -1,1 +1,1 @@
-# face_detecting_game
+face detecting game using openCV, haarcascade. the goal of the game is increase your score by aligning your nose to the randomly appearing red dot.
